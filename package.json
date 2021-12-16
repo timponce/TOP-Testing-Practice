@@ -1,0 +1,22 @@
+{
+  "name": "top-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timponce/TOP-Testing-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timponce/TOP-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/timponce/TOP-Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
